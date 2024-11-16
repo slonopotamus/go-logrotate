@@ -1,3 +1,5 @@
+//go:build !freebsd && !windows
+
 package logrotate
 
 import (
